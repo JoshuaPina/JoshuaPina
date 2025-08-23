@@ -9,7 +9,13 @@ My name is Josh, thank you for checking out my page!
 - 💬I'm completing my Azure Fundamentals Certification.
 - 🌱 I’m currently practing ethical usages of NLP.
 
+<div align="center">
+<em>Data Science and Analytics are my passions, and I bring them to life by building apps and documenting everything I work on.<br>  
+Check out my Tech Stack below!</em>
+</div>
+
 ## Tech Stack
+
 
 ### Languages & Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,6 +38,7 @@ My name is Josh, thank you for checking out my page!
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
