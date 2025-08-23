@@ -4,10 +4,10 @@ My name is Josh, thank you for checking out my page!
 
 
 - 🔭 I'm a U.S. Army Veteran, current Program Manager, and a Data Science senior, going into my final semester at Georgia State University.
-- 💬 I'm particulary interested in data science ethics and utilizing Machine Learning to enhance medical advancements.
-- 💬I'm proficient in Python, with specialties in Machine Learning and Big Data Programming and Analysis. 
-- 💬I'm completing my Azure Fundamentals Certification.
-- 🌱 I’m currently practing ethical usages of NLP.
+- 🌱 I'm particulary interested in data science ethics and utilizing Machine Learning to enhance medical advancements.
+- 💬 I'm proficient in Python, with specialties in Machine Learning and Big Data Programming and Analysis. 
+- 💬 I'm completing my Azure Fundamentals Certification.
+- 💬 I’m currently practing ethical usages of NLP.
 
 <div align="center">
 <em>Data Science and Analytics are my passions, and I bring them to life by building apps and documenting everything I work on.<br>  
