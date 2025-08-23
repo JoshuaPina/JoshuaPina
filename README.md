@@ -7,7 +7,7 @@ My name is Josh, thank you for checking out my page! You can find my full GitHub
 - 🌱 I'm particulary interested in data science ethics and utilizing Machine Learning to enhance medical advancements.
 - 💬 I'm proficient in Python, with specialties in Machine Learning and Big Data Programming and Analysis. 
 - 💬 I'm completing my Azure Fundamentals Certification.
-- 💬 I’m currently practing ethical usages of NLP.
+- 💬 I’m currently studying ethical usages of NLP.
 
 <div align="center">
 <em>Data Science and Analytics are my passions, and I bring them to life by building apps and documenting everything I work on.<br>  
