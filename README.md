@@ -1,13 +1,15 @@
-## Hi there 👋
+## Howdy 👋
 
-My name is Josh, thank you for checking out my page! Here is my full GitHub Page: joshuapina.github.io
+My name is Josh, thank you for checking out my page! Here is my (in-process) Github Page: [Portfolio](joshuapina.github.io)
 
 
-- 🔭 I'm a U.S. Army Veteran, current Program Manager, and a Data Science senior, going into my final semester at Georgia State University.
-- 🌱 I'm particulary interested in data science ethics and utilizing Machine Learning to enhance medical advancements.
-- 💬 I'm proficient in Python, with specialties in Machine Learning and Big Data Programming and Analysis. 
-- 💬 I'm completing my Azure Fundamentals Certification.
-- 💬 I’m currently studying ethical usages of NLP.
+- 🔭 I'm a U.S. Army Veteran, current Program Manager, and a Data Science senior, completing my final semester at Georgia State University.
+- I'm particulary interested in data science ethics and utilizing Machine Learning to enhance medical advancements.
+- I'm proficient in Python, with specialties in Machine Learning and Big Data Programming and Analysis. 
+- I’m currently studying ethical usages of NLP.
+- I am a member of the Fall 2025 FourBlock Cohort.
+- I am a Peer Mentor with CodePath. 
+- I will be pursuing my AWS: Solutions Architect starting October 2025
 
 <div align="center">
 <em>Data Science and Analytics are my passions, and I bring them to life by building apps and documenting everything I work on.<br>  
