@@ -1,6 +1,6 @@
 ## Howdy 👋
 
-My name is Josh, thank you for checking out my page! Here is my (in-process) Github Page: [Portfolio](joshuapina.github.io)
+My name is Josh, thank you for checking out my page! Here is my (in-process) Github Page: [Portfolio](https://joshuapina.github.io)
 
 
 - 🔭 I'm a U.S. Army Veteran, current Program Manager, and a Data Science senior, completing my final semester at Georgia State University.
