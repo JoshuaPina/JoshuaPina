@@ -4,12 +4,11 @@ My name is Josh, thank you for checking out my page! Here is my (in-process) Git
 
 
 - 🔭 I'm a U.S. Army Veteran, current Program Manager, and a Data Science senior, completing my final semester at Georgia State University.
-- I'm particulary interested in data science ethics and utilizing Machine Learning to enhance medical advancements.
+- I'm particulary interested in Data Science ethics and utilizing Machine Learning to enhance medical advancements.
 - I'm proficient in Python, with specialties in Machine Learning and Big Data Programming and Analysis. 
 - I’m currently studying ethical usages of NLP.
-- I am a member of the Fall 2025 FourBlock Cohort.
-- I am a Peer Mentor with CodePath. 
-- I will be pursuing my AWS: Solutions Architect starting October 2025
+- I am a member of the  Fall 2025 FourBlock Cohort, ColorStack, and CodePath, where I serve as a Peer Mentor.
+- I will be joining Syracuse University's next O2O Cohort, starting October 2025
 
 <div align="center">
 <em>Data Science and Analytics are my passions, and I bring them to life by building apps and documenting everything I work on.<br>  
