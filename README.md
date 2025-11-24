@@ -51,10 +51,38 @@ Check out my Tech Stack below!</em>
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
+---
 
+## 🔧 Development & Maintenance
 
+This repository hosts the **GitHub Profile** for **Joshua Pina**. It is a special repository (matching the username) that GitHub automatically renders at the top of the user's profile page.
 
+### 📝 Purpose
+The primary purpose of this repository is to provide an introduction, portfolio links, and a showcase of technical skills (tech stack) for the user's public profile.
 
+### 📂 File Overview
+*   **`README.md`**: The source of truth for the profile content. GitHub renders this Markdown file.
 
+### 🚀 How to Update
+To modify the profile information, a developer (or the user) needs to edit the `README.md` file.
 
+1.  **Clone the Repository**:
+    ```bash
+    git clone https://github.com/joshuapina/joshuapina.git
+    cd joshuapina
+    ```
 
+2.  **Edit `README.md`**:
+    *   **Bio**: Update the text sections to reflect new roles or status.
+    *   **Badges**: Add or remove badges in the "Tech Stack" section. You can find new badges on [Shields.io](https://shields.io/).
+        *   Format: `![Name](https://img.shields.io/badge/Name-Color?style=for-the-badge&logo=logoName&logoColor=white)`
+
+3.  **Commit and Push**:
+    ```bash
+    git add README.md
+    git commit -m "Update profile content"
+    git push origin main
+    ```
+
+### 🤝 Contributing
+Since this is a personal profile, contributions are generally not expected unless you are the owner. However, suggestions for improvements can be raised via issues if enabled.
