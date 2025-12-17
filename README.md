@@ -59,4 +59,4 @@ Check out my Tech Stack below!</em>
 This repository hosts the **GitHub Profile** for **Joshua Pina**. It is a special repository that GitHub automatically renders at the top of the user's profile page.
 
 ### Contributing
-Since this is a personal profile, contributions are generally not expected. However, suggestions for improvements can be raised via issues if enabled.
+Since this is a personal profile, contributions are generally not expected. However, suggestions for improvements can be raised via issues if I have them enabled.
