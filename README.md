@@ -4,9 +4,9 @@ My name is Josh, thank you for checking out my page!<br>
 You'll need to enter the Matrix if you want to check out the real **[portfolio...](https://joshuapina.github.io)** <br><br>
 I created the [Georgia State University - Data Science (GSU-DS) Organization](https://github.com/gsu-ds) to organize all of the 2025 Senior projects I am working on. <br> <br> I eventually aim to hand it off to a professor with the purpose of showcasing senior projects.  
 <br>
-- 🔭 I'm a U.S. Army Veteran, current Program Manager, and a Data Science senior, completing my BS at Georgia State University.
+- 🔭 I'm a U.S. Army Veteran, current Program Manager, and a Data Scientist, holding a BS from Georgia State University.
 - I'm particulary interested in Data Science ethics and utilizing Machine Learning to enhance medical advancements.
-- I am a member of the  Fall 2025 FourBlock Cohort, ColorStack, and CodePath, where I serve as a Peer Mentor.
+- I am Alumni of the  Fall 2025 FourBlock Cohort, ColorStack, and CodePath, where I serve as a Peer Mentor.
 - I am currently completing Syracuse University's O2O Cohort, which kicked off late October 2025.
 
 <div align="center">
