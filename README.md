@@ -7,9 +7,9 @@ I created the [Georgia State University - Data Science (GSU-DS) Organization](ht
 - 🔭 I'm a U.S. Army Veteran, current Program Manager, and a Data Scientist, holding a BS from Georgia State University.
 - I'm particulary interested in Data Science ethics and utilizing Machine Learning to enhance medical advancements.
 - I am Alumni of the  Fall 2025 FourBlock Cohort, ColorStack, and CodePath, where I serve as a Peer Mentor.
-- I am currently completing Syracuse University's O2O Cohort.
+- I am currently completing Syracuse University's O2O Cohort, with a focus on the AWS: Solutions Architect certification.
 - I am a member of the inaugural CodePath Applied AI Engineering pathway - AI110 (Foundations of Engineering).
-  - Starts February 25, 2026
+  - Started February 25, 2026
 
 <div align="center">
 <em>Data Science and Analytics are my passions, and I bring them to life by building apps and documenting everything I work on.<br>  
