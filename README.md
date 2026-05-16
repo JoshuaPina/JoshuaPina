@@ -35,7 +35,7 @@ Joshua_D_Piña = {
             
                 "background": "Program Management",
                 "current_op": "Operation Nimbus",
-                "military":   "U.S. Army Combat Medic",
+                "military":   "U.S. Army Combat Medic Veteran",
             
                 "education":  "B.S. Data Science, GSU (2025)",
                 "future":     "M.S. Analytics, Georgia Tech (2027)",
