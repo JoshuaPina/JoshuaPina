@@ -1,23 +1,68 @@
-## Howdy 👋
+<div align="center">
+  
+## Howdy 👋, my name is Josh, thank you for checking out my GitHub!<br>
 
-My name is Josh, thank you for checking out my page!<br>
-You'll need to enter the Matrix if you want to check out the real **[portfolio...](https://joshuapina.github.io)** <br><br>
-I created the [Georgia State University - Data Science (GSU-DS) Organization](https://github.com/gsu-ds) to organize all of the 2025 Senior projects I am working on. <br>I have handed off primary control to Dr. Kiril Kuzmin of GSU, to showcase future senior projects.  
-<br>
-- 🔭 I'm a U.S. Army Veteran, current Program Manager, and a Data Scientist, holding a BS from Georgia State University.
-- I'm particulary interested in Data Science ethics and utilizing Machine Learning to enhance medical advancements.
-- I am Alumni of the  Fall 2025 FourBlock Cohort, ColorStack, and CodePath, where I serve as a Peer Mentor.
-- I am currently completing Syracuse University's O2O Cohort, with a focus on the AWS: Solutions Architect certification.
-- I am a member of the inaugural CodePath Applied AI Engineering pathway - AI110 (Foundations of Engineering).
-  - Started February 25, 2026
+</div>
+
 
 <div align="center">
-<em>Data Science and Analytics are my passions, and I bring them to life by building apps and documenting everything I work on.<br>  
+  I am a Data Scientist with a Data Engineering and Program Management background. I spent 5 years in the Army as a 68W (Combat Medic).<br>Over the last few years I've been building production systems and MLOps-focused pipelines aimed at solving real problems within my current role. In 2025, I created the <a href="https://github.com/gsu-ds">Georgia State University - Data Science (GSU-DS) Organization</a> to showcase senior projects, and have since handed off primary control to Dr. Kiril Kuzmin to support future students.
+</div>
+<br>
+<div align="center">
+<em><a href="https://joshuapina.github.io">My Wikipedia portfolio</a> is probably the best place to find out more about me,
+but <a href="https://www.linkedin.com/in/joshuadpina">LinkedIn</a> is a close runner-up.<br><br></em>
+</div>
+
+
+##### My most recent projects include:
+- Designing and shipping and end-to-end ETL platform, integrating messy multi-source data into clean backends, and delivering analytics products that non-technical stakeholders can actually use.
+- Engineering a music recommendation system backed by the Gemini API that provides real-time reasoning behind every recommendation rather than treating it as a black box.   [Repo + Demo](https://github.com/JoshuaPina/applied-ai-system-project)
+- Leading a student Data Science team in the end-to-end production of a containerized app that utilizes ML to predict burglary-related hotspots in Metro Atlanta to encourage students to make safer decisions. [Repo + App](https://github.com/gsu-ds/campus-burglary-risk-prediction)
+- Developing a full-stack application aimed at making studying easier for neurodivergent students. [Repo + App](https://github.com/JoshuaPina/living_library)
+<br><br>
+
+<div align="center">
+<table>
+  <tr>
+    <td>
+
+```python
+Joshua_D_Piña = {
+                "class":      "Polymath",
+                "clearance":  "Active Secret",
+                "expertise":  "Data Science",
+            
+                "background": "Program Management",
+                "current_op": "Operation Nimbus",
+                "military":   "U.S. Army Combat Medic",
+            
+                "education":  "B.S. Data Science, GSU (2025)",
+                "future":     "M.S. Analytics, Georgia Tech (2027)",
+                "alumni":     ["CodePath", "ColorStack", "Fourboot"],
+}
+```
+
+  </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/68ec46ac-9e73-4722-b776-46e36402a187" width="400"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+
+
+
+---
+
+
+<div align="center">
+<em>Data Science is pretty cool, Ethical Data Science is cooler.<br>
 Check out my Tech Stack below!</em>
 </div>
 
 ## Tech Stack
-
 
 ### Languages & Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -53,12 +98,17 @@ Check out my Tech Stack below!</em>
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+<br>
+#### Certs & Continuing Education
+
+- **CodePath:** Foundations of AI Engineering [Honors] | **Google:** AI Professional | **IBM:** Data Analyst  
+ - **CompTIA:** Security+ (In-Progress) | CodePath: Applications of AI Engineering (Inaugural Course Begins June '26)
 
 ---
 
 ## Development & Maintenance
 
-This repository hosts the **GitHub Profile** for **Joshua Pina**.
+This repository hosts the **GitHub Profile** for **Joshua Piña**.
 
-### Contributing
-Since this is a personal profile, contributions are generally not expected. However, suggestions for improvements can be raised via issues if I have them enabled.
+#### Contributing
+This is my personal profile, thus contributions are generally not expected. However, suggestions for improvements can be raised via issues if I have them enabled.
