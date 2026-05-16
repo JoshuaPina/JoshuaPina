@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  I am a Data Scientist with a Data Engineering and Program Management background. I spent 5 years in the Army as a 68W (Combat Medic).<br>Over the last few years I've been building production systems and MLOps-focused pipelines aimed at solving real problems within my current role. In 2025, I created the <a href="https://github.com/gsu-ds">Georgia State University - Data Science (GSU-DS) Organization</a> to showcase senior projects, and have since handed off primary control to Dr. Kiril Kuzmin to support future students.
+  I am a Data Scientist with a Data Engineering and Program Management background. <br>I spent 5 years in the Army as a 68W (Combat Medic).<br>Over the last few years I've been building production systems and MLOps-focused pipelines aimed at solving real problems within my current role. In 2025, I created the <a href="https://github.com/gsu-ds">Georgia State University - Data Science (GSU-DS) Organization</a> to showcase senior projects, and have since handed off primary control to Dr. Kiril Kuzmin to support future students.
 </div>
 <br>
 <div align="center">
