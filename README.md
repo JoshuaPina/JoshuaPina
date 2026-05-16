@@ -39,7 +39,7 @@ Joshua_D_Piña = {
             
                 "education":  "B.S. Data Science, GSU (2025)",
                 "future":     "M.S. Analytics, Georgia Tech (2027)",
-                "alumni":     ["CodePath", "ColorStack", "Fourboot"],
+                "alumni":     ["CodePath", "ColorStack", "FourBlock"],
 }
 ```
 
